@@ -1,0 +1,195 @@
+{
+    "Undergraduate Courses": [
+        {
+    "CourseName": "Adult Nursing BSc(Hons)",
+    "overview":"Our 3 year adult Nursing course will give you the ability to cope with a demanding and satisfying profession, leading to a BSc Adult Nursing degree and registrion with the Nursing and Midwifery Council(NMC) allowing you to practice in accordance with the NHS constitution which is underpinned by the core NHS values. The structure provides a strong foundation in adult nursing with skills based upon the theory taught at the university and clinical placements. We will develop your care, compassion, courage, commitment and communication skills to work with adults in nursing.This Adult Nursing degree has been approved by the Nursing and Midwifery Council (NMC). This means you can be confident that this programme meets the standards of education, training, conduct and performance required for nurses in the UK.",
+    "CourseIcon":"courseIcons/user-nurse-solid.svg",
+    "CourseIntake":"September",
+    "Location" :"Waterside",
+    "CourseDuration":"3 years",
+    "CourseDetails": "Our BSc Adult Nursing course has been designed tocontribute towards achieving the following United Nations Sustainable Development Goals: SDG3 of Good Health and Wellbeing and SDG5 Gender Equality. whatever your ambitions, we're here to help you to achieve them. we'll support you to identify the skills you're learning during your BSc adult nursing. Find your strength and secure practical experience so that when it comes to applying for jobs or further study  you'll feel confident in standing out from the croud. Our aim is to produce safe and effective nurses who embrace the highest standards of professional conduct and ethical practice. you will be introduced to a range of care and allow you to choose a specialist area. By studying our Adult Nursing course you will learn to: 1. Work as a professional and be able to safeguard public and be responsible and accountable for safe person-centerd nursing practice. 2. Practice in a compassionate respectful way whilst maintaning client dignity. 3. Work in a partnership with other healthcare professionals in care delivery. Our University is part of a well-established, professional  European network for Nursing and Midwifery. The Florence Network offers oppertunities for future health careers and development to staff, academics and students.",
+    "EntryRequirements": {
+        "Students": ["BCC at A level", "BTEC level 3 Extended Diploma or National Diploma at DMM", "A kitemarked Access to Higher Education course with 30 credits at Merit or above", "Successful completion of the first year of a relevant Foundation Degree","Health and Social Care Diploma at Level 3 (advanced level)","CACHE Diploma achieved at grade B or above"]
+      },
+      "EnglishLanguageRequirements":"IELTS 7.0 with no lower than 7.0 in Reading, Listening and Speaking as well as no lower than 6.5 in Writing for study at the undergraduate level.",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £9250","euro = €10642 ","dollar=$11420"],
+        "IntFullTime":["pound = £16900","euro = €19443 ","dollar=$20865"]
+       
+      }
+ },
+
+ {
+    "CourseName": "Advertising & Digital Marketing BA (Hons)",
+    "overview":"This is an exciting time to enter the marketing communications industry as advertisers develop campaigns for an increasingly complex and interesting media landscape. Throughout this Advertising and Digital Marketing Degree, you will have the opportunity to work on a wide range of digital platforms and traditional media as you plan and create real campaigns. The degree culminates in a pitch to clients of a top global agency, providing practical preparation for work in advertising and digital marketing roles.Our Advertising and Digital Marketing Degree suits those interested in creativity, tech and business with recent students working at companies such as Google, Disney, YouTube, The Financial Times, MediaCom, Next, Superdrug, Sainsburys, Publicis, Bauer Media and WPP.",
+    "CourseIcon":"courseIcons/rectangle-ad-solid.svg",
+    "CourseIntake":"September",
+    "Location" :"Waterside",
+    "CourseDuration":"3 years",
+    "CourseDetails": "The advertising industry has been transformed by the digital and social media revolution. From start-ups to big businesses, from social enterprises to charities and the public sector, this discipline offers careers in a wide range of industry sectors.Experiences are at the heart of our advertising degree. As well as regular guest speakers and industry visits, we work on real projects with real marketing budgets. We operate as a marketing department from the first year. Typically, you will be set a brief and then develop and pitch your concept. You will work within brand guidelines, often appointing suppliers, like photographers or design agencies, to deliver your project.",
+    "EntryRequirements": {
+        "Students": [ "BCC at A Level or","DDM at BTEC","Pass (C or above) at T level"]
+      },
+      "EnglishLanguageRequirements":"IELTS 6.0 (or equivalent) with a minimum of 5.5 in all bands for study at undergraduate level",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £9,250","euro = €10,777.28 ","dollar=$12,380.03"],
+        "IntFullTime":["pound = £14,750","euro = €17,179.90 ","dollar=$19,762.55"]
+      }
+        },
+   
+ {
+  "CourseName": "Paramedic Science BSc (Hons)",
+  "overview":"BSc (Hons) Paramedic Science programme is now closed to new applications for September 2023 entry. The programme will reopen in September 2023 for the 2024/25 start.    Our Paramedic Science degree programme will provide you with a wide range of academic and practical components to equip you with the required competencies to become a Paramedic registered with the Health and Care Professions Council (HCPC).",
+  "CourseIcon":"courseIcons/notes-medical-solid.svg",
+    "CourseIntake":"September",
+    "Location" :"Waterside",
+    "CourseDuration":"3 years",
+    "CourseDetails": "Our teaching team is made up of a Professional lead and a number of academics who are experienced Paramedics or Specialist Paramedics working in pre-hospital and hospital settings. All of our Paramedic Science degree teaching staff have significant practice experience and qualifications in a variety of Masters level qualifications, with the majority having completed post-graduate certificates in Medical Education.Our Paramedic Science clinical skills suite, located at our Waterside Campus, has a purpose-built ambulance simulator, specialised equipment, manikins and a full range of paramedic patient management equipment and patient handling aids to assist students in their learning.Our paramedic science degree has a modular curriculum, ensuring that you are able to develop both academically and practically. This paramedic course combines practical placements with blended academic study in each term.Placements can be in ambulance service work areas such as emergency ambulances, response cars, or in specialist roles such as paramedic practitioners. Other practice areas include experience in theatre departments/anaesthetics, A&E, maternity, minor injury/minor illness, coronary care and paediatrics.",
+    "EntryRequirements": {
+        "Students": ["BBC at A Level including a Science subject (Biology is desirable)", "DDM at BTEC from courses in Science or Health subject areas","M at T Level in Biology, Science or Health related subject","Access course (must be health or science related) you will need to achieve 15 level 3 credits at distinction and 30 level 3 credits at Merit"]
+      },
+      "EnglishLanguageRequirements":"IELTS 7.0 with no lower than 7.0 in Reading, Listening and Speaking as well as no lower than 6.5 in Writing",
+      
+      "FeesStructure": {
+        "UKFullTime": ["pound = £9,250","euro = €10,777.28 ","dollar=$12,380.03"],
+        "IntFullTime":["pound = £17250","euro = €19845.47 ","dollar=$21296.85"]
+      }
+      
+      },
+      
+
+ {
+  "CourseName": "Computer Science BSc (Hons)",
+  "overview":"Computer Science BSc (Hons) enables students to acquire a range of theoretical principles. This is done through engaging with concepts and theories, developing practical skills across the broad range of fields within the subject, and applying these in the creation of tools and systems to solve real world problems. Our course is carefully designed to strike an all-around balance among key aspects of computer science. The course covers essential theories in the field with an emphasis on practical skills for implementation of a variety of applications. We are very confident that our graduates will be equipped with all the key skills needed for their future career in the computing industry.",
+  "CourseIcon":"courseIcons/laptop.svg",
+    "CourseIntake":"September",
+    "Location" :"Waterside",
+    "CourseDuration":"3 years",
+    "CourseDetails": "Our Computer Science BSc (Hons) degree gives you the opportunity to explore different ideas and develop innovative solutions to current issues in the computing industry. This three-year Computer Science degree will give you an insight into the computing industry, investigating the wide-reaching influences that computers and computing technology have on the world. Studying this course will also contribute towards helping you find your ideal path for a career in Computing.Year 1: During the first year of this computer science degree, you will study common computer science modules such as Computer Systems, Software Engineering Fundamentals, Mathematics for Computer Science, Web Development, Problem Solving & Programming. These will help you build a foundation for more advanced topics in subsequent years.Year 2: In the second year, you will continue your journey with the core computer science modules such as Data Structures and Algorithms, Operating Systems, Object-oriented programming, Web development,  Relational Databases, etc. There will also be a group project where you will be a part of a small team to design and implement a solution of decent quality for a given task. This will help you develop not only technical skills but also key soft skills such as teamwork, effective communication, leadership, etc. Year 3: In the final year of this computer science degree, you will further enhance your Computer Science knowledge/skills by doing high-level modules such as Advanced AI and Applications, Modern Databases, Cyber Security and Applied Cryptography, and Media Technology. You are also expected to complete an independent dissertation on a topic of your choice in the field of Computer Science (with some guidance from an assigned supervisor). This benchmarking module will allow you to showcase your overall knowledge/skills learnt from the course.",
+    "EntryRequirements": {
+        "Students": ["BCC at A-Level or,","DMM at BTEC or,","Pass (C or above) at T Level","Applicants will be expected to have achieved GCSE Mathematics (or equivalent) at grade C/4 or above. We welcome international applicants and applications from students with a range of non-traditional educational or professional qualifications."]
+      },
+      "EnglishLanguageRequirements":"IELTS 6.0 (or equivalent) with a minimum of 5.5 in all bands for study at undergraduate level.",
+       
+      "FeesStructure": {
+        "UKFullTime": ["pound = £9,250","euro = €10,777.28 ","dollar=$12,380.03"],
+        "IntFullTime":["pound = £14750","euro = €17179.90 ","dollar=$19762.55"]
+      }
+      },
+ 
+ {
+  "CourseName": "Engineering BSc (Hons)",
+  "overview":"Engineering is an evolving sector that needs engineers with a wide variety of knowledge and skills. Our Engineering BSc (Hons) course will give you the foundations, key principles and professional skills you need in modern engineering and related industries. Our staff have significant industrial experience and use the latest learning and teaching technology.This engineering degree has been accredited by IMechE under licence from the UK regulator, the Engineering Council.Accreditation is a mark of assurance that the degree in engineering meets the standards set by the Engineering Council in the UK Standard for Professional Engineering Competence (UK-SPEC). An accredited degree will provide you with some or all of the underpinning knowledge, understanding and skills for eventual registration as an Incorporated (IEng) or Chartered Engineer (CEng). Some employers recruit preferentially from accredited degrees, and an accredited degree is likely to be recognised by other countries that are signatories to international accords.",
+  "CourseIcon":"courseIcons/connectdevelop.svg",
+    "CourseIntake":"September",
+    "Location" :"Waterside",
+    "CourseDuration":"3 years",
+    "CourseDetails": " During your first year studying Engineering BSc (Hons), you will be introduced to the fundamental principles and concepts of engineering, along with knowledge and understanding of technical requirements and management issues. You will also cover design and analytical principles and materials science. In your second year of your engineering programme, you have the chance to do an optional industrial placement with your employer if you have one, an independently sourced placement or a paid placement (placements awarded on a competitive basis) through the Northants Engineering Training Partnership (NETP).In the second year, we will extend your knowledge and skills to more complex issues. We encourage you to work in an industrial setting so that you can work alongside professional, experienced engineers to solve real problems. We will work with the companies and oversee the work that you do to make sure you have the best possible learning environment. This experience will develop your problem-solving, and analytical skills and you will have the opportunity to use advanced computer aided engineering software packages. Your second year will also include project or case study work to demonstrate your learning and skills that you have developed through the course.",
+    "EntryRequirements": {
+        "Students": ["DDE at A Level (to include Physics) or,","MMP at BTEC or","Pass (C and above) at T Level"," Applicants need to hold GCSE Maths at grade C/4 or above (or recognised Level 2 equivalent)"]
+      },
+      "EnglishLanguageRequirements":"IELTS 6.0 (or equivalent) with a minimum of 5.5 in all bands for study at undergraduate level",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £9,250","euro = €10,641.77 ","dollar=$11420.05"],
+        "IntFullTime":["pound = £14750","euro = €17179.90 ","dollar=$19,762.55"]
+      }
+
+      }
+
+],
+  "Postgraduate Courses": [
+    {
+    "CourseName": "Project Management MSc",
+    "overview":" If you are already working within this discipline or are considering a Project Management career, then this course is ideal. Our Project Management course is designed to allow entry from any degree discipline and a diverse range of work backgrounds. The skills that you will gain through studying this course are transferable to a wide variety of industries – gas, engineering, information technology, healthcare, events, public sector and logistics.",
+    "CourseIcon":"courseIcons/projector.svg",
+    "CourseIntake":"june/January/September(23/24)",
+    "Location" :"Waterside",
+    "CourseDuration":"1 Year",
+    "CourseDetails": "Our Project Management Masters is designed to address the growing complexity of projects and incorporates key tools and techniques. You’ll gain an understanding of the core competencies required to drive a successful conclusion, as well as an appreciation of using a more holistic, international and ethical stakeholder project management approach. When you choose to study MSc Project Management at the University of Northampton, you will benefit from the teaching of supportive and dedicated teaching staff with real industry experience. You will also have the opportunity to gain additional, highly-regarded professional project management qualifications in PRINCE2 Foundation, PRINCE2 Practitioner and Agile Project Management Foundation. This course explores project management through a series of progressive modules, developing your knowledge from the fundamentals, through to modules addressing risk, resilience and contingency planning. You will also explore key issues facing project managers such as project finance and procurement, managing project teams, critical perspectives and social impact and responsibility.",
+    "EntryRequirements": {
+        "Students": ["If you hold a recognised first or second class honours degree (or equivalent), you will be eligible to apply for this Project Management Masters course. If you have relevant work experience in the Project Management field and related professional qualifications, you will also be considered on an individual basis."]
+      },
+      "EnglishLanguageRequirements":"IELTS 6.5 overall with a minimum of 6.0 in writing and 5.5 in all other skills.",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £8010","euro = €9216.31 ","dollar=$9889.15"],
+        "IntFullTime":["pound = £16500","euro = €18984.90 ","dollar=$20370.90"]
+      }
+      },
+    
+
+    {
+      "CourseName": "Advanced Design and Manufacturing MSc",
+      "overview":"Our Advanced Design and Manufacturing MSc addresses the complete life cycle of a product or process, from conception through to design and manufacture to disposal. This highly applied programme develops students’ knowledge and understanding of the scientific principles underpinning engineering in the field of design and manufacturing, and of the accompanying legal, ethical and professional considerations. There is a strong focus on integrating current research and developments into learning and teaching. This design and manufacturing course is available to study on placement and non-placement routes. ",
+      "CourseIcon":"courseIcons/tools.svg",
+
+    "CourseIntake":"September/February(23/24)",
+    "Location" :"Waterside",
+    "CourseDuration":"1 year",
+    "CourseDetails": "This highly applied programme develops students’ knowledge and understanding of the scientific principles underpinning engineering in the field of design and manufacturing, and of the accompanying legal, ethical and professional considerations.",
+    "EntryRequirements": {
+        "Students": ["Applicants will normally hold a recognised first or second class honours degree from a UK university or international equivalent in a relevant subject area. We expect that you will have a knowledge of Engineering from almost any discipline (e.g. Mechanical, Design, Electrical, Manufacturing) and are interested in developing your engineering skills in the area of modelling, control and sustainability."]
+      },
+      "EnglishLanguageRequirements":"Minimum standard - IELTS 6.5 (or equivalent)",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £8010","euro = €9216.31 ","dollar=$9889.15"],
+        "IntFullTime":["pound = £16500","euro = €18984.90 ","dollar=$20370.90"]
+      }
+    
+    },
+    {
+    "CourseName": "Business Analytics MSc",
+    "overview":"MSc Business Analytics will equip the learners with the techniques and analytical tools required to understand and engage with complex data with the aim of enhancing business performance. This business analytics masters programme has been designed to help learners gain the skills and qualification needed to pursue a career in business analytics. Business analytics is an area where employers are finding it increasingly difficult to recruit graduates with the right qualifications and skills. There is an increasing demand for skills, but also a significant gap between current business analytics course graduates’ analytical skills and employers’ needs.",
+    "CourseIcon":"courseIcons/briefcase.svg",
+
+    "CourseIntake":"September/February(23/24)",
+    "Location" :"Waterside",
+    "CourseDuration":"1 year",
+        "CourseDetails": "By completing this course for business analytics, learners will improve their employability skills by gaining the expertise required to analyse data, improve decision-making, enhance critical thinking and help companies gain a competitive advantage. Moreover, the master in business analytics programme enables learners to enhance their knowledge of core themes such as business intelligence, information systems theories and some of the related techniques, information systems strategy, digital innovation, and fundamentals of project management. Furthermore, learners will be able to gain the necessary research skills as part of the final dissertation module – Business Research Project – to pursue further studies at doctoral level, if they choose to do so.",
+        "EntryRequirements": {
+        "Students": ["If you hold a recognised first-or second-class honours degree (or equivalent) in Business, Management, Information Systems, or Information Technology-related courses you will be eligible to apply for this business analytics course."]
+      },
+      "EnglishLanguageRequirements":"Minimum standard – IELTS 6.5 (or equivalent) for study at postgraduate level.",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £8010","euro = €9216.31 ","dollar=$9889.15"],
+        "IntFullTime":["pound = £16500","euro = €18984.90 ","dollar=$20370.90"]
+      }
+    },
+    {
+      "CourseName": "Psychology MSc",
+      "overview":"The Psychology MSc degree has been specifically set up to accommodate students with a strong interest and passion for psychology and who are looking to explore the different options for careers in psychology. This psychology masters degree has also been designed for those without an undergraduate degree in psychology or a related field but who still have a strong foundational understanding and wish to gain the knowledge and skills fit for employability. This masters degree in psychology programme offers students a psychology programme accredited by the British Psychological Society to broaden their knowledge and understanding of psychology. Successful completion of the MSc Psychology (Conversion) programme confers students with Graduate Basis for Chartered Membership (GBC) with the British Psychological Society.  This programme is therefore not normally appropriate for students who already hold GBC status. As a student on this MSc in psychology you will be offered automatic BPS student membership. This membership will give you access to careers advice and guidance, events’ opportunities, knowledge exchange platforms, research insights and access to the latest developments within the discipline.",
+      "CourseIcon":"courseIcons/hospital.svg",
+    "CourseIntake":"September",
+    "Location" :"Waterside",
+    "CourseDuration":"1 year",
+    "CourseDetails": "This MSc in psychology has been designed to contribute towards achieving the following United Nations Sustainable Development Goal: SDG3 Good Health and Wellbeing. Our MSc Psychology conversion programme is designed to equip you with key theoretical perspectives and practical knowledge within some of the core areas of psychology at a Masters level. You will study from a core curriculum within some of the key areas within psychology, through a range of modules which allow you to develop further capabilities already achieved through studying at undergraduate level such as undertaking independent research projects. The core curriculum will also provide you with a sound knowledge of theoretical, professional and policy issues in psychology. To further assist with your employability portfolio, we have a two-hour career event embedded as part of your curriculum. This event will be held in the second trimester and will be part of the PSYM081 (Applied and Critical Social Psychology) module workshops. Attendance at this event is mandatory. On this psychology masters degree, you will be taught by academics from the Division of Psychology with a wide ranging area of research expertise, engaging you with a diverse array of perspectives. The programme will equip you with key theoretical perspectives and practical knowledge within some of the core areas of psychology.",
+    "EntryRequirements": {
+        "Students": ["To be considered for this MSc psychology course you must hold a GCSE grade C/4 in Mathematics (domestic equivalencies are not accepted) or an agreed internationally recognised equivalent qualification","You should normally hold a higher second class honours degree or above in an internationally recognised undergraduate programme.","If you hold a lower-second class honours degree, you may also be considered.  Such candidates will normally be asked to produce evidence of academic capability, such as an essay, before being considered for admission.","If you have previous educational experience you will be considered for admission to the programme however, recognition of prior learning is limited to a maximum of 60 credits. Students will require a minimum of 180 credits in psychology in order to meet the requirements for the GBC.  Applicants with a disability and applicants from all ethnic groups will be encourage","We would consider your application for this psychology masters degree if you have undertaken a British Psychological Society accredited psychology degree but who have failed to either pass the empirical psychology project or achieve at least a lower second class honours degree."]
+      },
+      "EnglishLanguageRequirements":"Minimum standard – IELTS 6.5 overall (or equivalent) with a minimum of 6.5 in each of its components",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £8010","euro = €9216.31 ","dollar=$9889.15"],
+        "IntFullTime":["pound = £16500","euro = €18984.90 ","dollar=$20370.90"]
+      }
+    },
+    {
+       "CourseName": "Leather Technology (Professional) MSc",
+       "overview":"The leather industry is packed with exciting career opportunities and this Leather Technology (Professional) MSc course is an excellent route in if you have a science or technology background. It’s also a great way to expand your knowledge and skills if you are already employed in the leather industry. Leather is returning to prominence as alternatives struggle to achieve comparable performance and/or they are derived from non-renewable carbon-based materials. Scientific advances combined with environmental responsibility have transformed the leather manufacture industry into a modern scientific process, creating a highly sustainable material with high value in many sectors such as sports, automobiles, luxury goods and fashion.",
+       "CourseIcon":"courseIcons/schlix.svg",
+
+    "CourseIntake":"February(23/24)",
+    "Location" :"Waterside",
+    "CourseDuration":"1 year",
+    "CourseDetails": "Our Fine Art MA programme enables you to evaluate and develop your creative practice to the highest standards. It develops theoretical awareness, critical thinking and independent arts practice to a professional level.",
+    "EntryRequirements": {
+        "Students": ["Degree with a first or upper second classification in Fine Art.","Proficiency in written and spoken English"]
+      },
+      "EnglishLanguageRequirements":"Minimum standard - IELT 6.5 (or equivalent)",
+      "FeesStructure": {
+        "UKFullTime": ["pound = £8010","euro = €9216.31 ","dollar=$9889.15"],
+        "IntFullTime":["pound = £16500","euro = €18984.90 ","dollar=$20370.90"]
+      }
+     
+        
+      }
+]
+}

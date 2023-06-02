@@ -1,0 +1,120 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "Undergraduate Courses": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "CourseName": {
+              "type": "string"
+            },
+            "overview": {
+              "type": "string"
+            },
+            "CourseIcon": {
+              "type": "string"
+            },
+            "CourseIntake": {
+              "type": "string"
+            },
+            "Location": {
+              "type": "string"
+            },
+            "CourseDuration": {
+              "type": "string"
+            },
+            "CourseDetails": {
+              "type": "string"
+            },
+            "EntryRequirements": {
+              "type": "object",
+              "properties": {
+                "Students": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": ["Students"]
+            },
+            "EnglishLanguageRequirements": {
+              "type": "string"
+            },
+            "FeesStructure": {
+              "type": "object",
+              "properties": {
+                "UKFullTime": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "IntFullTime": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": ["UKFullTime", "IntFullTime"]
+            }
+          },
+          "required": [
+            "CourseName",
+            "overview",
+            "CourseIcon",
+            "CourseIntake",
+            "Location",
+            "CourseDuration",
+            "CourseDetails",
+            "EntryRequirements",
+            "EnglishLanguageRequirements",
+            "FeesStructure"
+          ]
+        }
+      },
+      "Postgraduate Courses": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "CourseName": {
+              "type": "string"
+            },
+            "overview": {
+              "type": "string"
+            },
+            "CourseIcon": {
+              "type": "string"
+            },
+            "CourseIntake": {
+              "type": "string"
+            },
+            "Location": {
+              "type": "string"
+            },
+            "CourseDuration": {
+              "type": "string"
+            },
+            "CourseDetails": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "CourseName",
+            "overview",
+            "CourseIcon",
+            "CourseIntake",
+            "Location",
+            "CourseDuration",
+            "CourseDetails"
+          ]
+        }
+      }
+    },
+    "required": ["Undergraduate Courses", "Postgraduate Courses"]
+  }
+  

@@ -1,0 +1,42 @@
+/* CSS styles for the table */
+
+.table {
+  width: 100%; /* Set table width to 100% of its container */
+  border-collapse: collapse; /* Collapse borders between table cells */
+  border: 3px solid #080808; /* Set border style for the table */
+}
+
+.table th,
+.table td {
+  padding: 10px; /* Add padding to table cells */
+  text-align: left; /* Align text to the left within cells */
+  border-bottom: 3px solid #0c0c0c; /* Add bottom border to table cells */
+  border-right: 3px solid #0b0a0a; /* Add right border to table cells */
+}
+
+.table th {
+  background-color: #ffffff; /* Set background color for table header cells */
+  border-top: 3px solid #080808; /* Add top border to table header cells */
+  color: blue; /* Set text color for table header cells */
+  font-size: x-large; /* Set font size for table header cells */
+}
+
+.table tbody tr td:first-child {
+  font-size: large; /* Set font size for the first column in table rows */
+  font-weight: bold; /* Set font weight for the first column in table rows */
+  color: #2253d9; /* Set text color for the first column in table rows */
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #ffffff; /* Set background color for even rows in the table body */
+}
+
+.table tbody tr:hover {
+  background-color: #e2efc3; /* Set background color for hovered rows in the table body */
+}
+
+/* CSS styles for h1 heading */
+
+h1 {
+  text-align: center; /* Align h1 heading to the center */
+}
