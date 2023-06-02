@@ -1,0 +1,62 @@
+<!DOCTYPE html>     
+<html>              <!--opening html tag -->
+<head>              <!--opening head tag -->
+    <title>Login Page</title>  <!-- heading of the page -->
+    <!-- opening of style tag for giving css -->
+    <style>                  
+        body {          /* give style to body tag */
+            font-family: Arial, sans-serif;  /* defining font family */
+            background-color: #f2f2f2;  /*  set the background color */
+        }
+
+        h1 {    /* style the h1 tag */
+            text-align: center; /* the text inside the h1 tag is aligned to center */
+        }
+
+        form {  /*  styling the form */
+            width: 600px;   /* defining the width of the form */
+            margin: 0 auto; /* defining the marging  */
+            background-color: #fff; /*defining the background color of the form  */
+            padding: 30px; /* set the padding to 30px */
+            border-radius: 5px; /* set the border radius */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  /* set the box shadow effect to the form */
+        }
+
+        input[type="text"],  /* style the input element of type text and password */
+        input[type="password"] {
+            width: 90%;  /* set the width */
+            padding: 10px; /* set the padding */
+            margin-bottom: 15px; /* set margin bottom  */
+            border: 1px solid #ccc; /* set border and define its color  */
+            border-radius: 4px; /* set border radius */
+        }
+
+        input[type="submit"] { /* style the input element of type submit */
+            background-color: #4CAF50;  /*  set the background color*/
+            color: #fff;  /* set the text color */
+            padding: 10px 20px; /*set the padding  */
+            border: none;  /* set the border */
+            border-radius: 4px; /* set border radius */
+            cursor: pointer; /*  cursor will change to hand icon when hovering over the submit button */
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;  /*  set the background color of the submit button when mouse pointer is hovering over it*/
+        }
+
+        input[type="text"]:focus, /*apply style when the input type text and password when they come into focus */
+        input[type="password"]:focus {
+            outline: none; /* when they come into focus remove default outline  */
+            border-color: #4CAF50; /* set the border color when the input type text and password come into focus*/
+        }
+    </style>  <!--close the style tag-->
+</head>  <!--close the head tag-->
+<body> <!--open the body tag -->
+    <h1>Login Page</h1>  <!-- give the heading  -->
+    <form action="http://localhost/Task2/authenticate.php" method="post"> <!--  start a form when submitted go to authenticate.php file and uses post method-->
+        <input type="text" name="username" placeholder="Username" id="username" required><br>  <!-- give field for entering user name-->
+        <input type="password" name="password" placeholder="Password" id="password" required><br> <!-- give field for password-->
+        <input type="submit" value="Login"> <!--submit button for submitting the form -->
+    </form> <!-- close form tag -->
+</body> <!--close body tag -->
+</html> <!--close html tag -->

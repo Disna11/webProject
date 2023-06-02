@@ -1,0 +1,62 @@
+body {
+  display: grid; /* set the display property of body to grid*/
+  grid-template-columns: 15% 85%; /* defines the width distribution of the columns. first column should take 15% of toatal width and second page take 85% of total width.*/
+  grid-template-rows: auto; /*height of the row is determined automatically */
+  grid-template-areas: "header header" /*it specifies there are three rows and 2 columns in the grid area named as header, nnav, and footer */
+                          "nav main"
+                          "footer footer";
+}
+
+header {  /* style the header section of the grid*/
+  background-color: #555; /* set the background colur*/
+  color: white; /* set the text colur */
+  padding: 10px; /*set padding of 10px */
+  grid-area: header; /* */
+}
+
+nav {
+  background-color: whitesmoke; /*set the background color of nav area of grid */
+  color: black; /*text color is black */
+  grid-area: nav;
+}
+
+nav > ul { /* style the ul tag which is a child of nav */
+  list-style-type: none; /* remove default bullet points or numbering*/
+  margin: 0; /* remove margins*/
+  padding: 0; /* remove padding*/
+  border-right: 2%; /* set the width of the right border of the element to 2% of the its width*/
+  border-color: whitesmoke; /*set border color */
+  border-style: solid; /* set border style */
+  background-color: whitesmoke; /* set background color*/
+}
+
+nav > ul li a { /* style the <a> tag which is a child of li element and nav  */
+  display: block;
+  color: #000; /* set the text color of a tag*/
+  padding: 8px 16px; /* give padding*/
+  text-decoration: none; /*remove all text decorations */
+}
+
+/* Change the link color on hover */
+nav > ul li a:hover { 
+  background-color: #555;
+  color: whitesmoke;
+}
+
+main { /*style main of the grid */
+  background-color: whitesmoke; /* set the background color*/
+  color: black; /* set the text color*/
+  margin-left: 1em; /* set margin left is 1em*/
+  padding-left: 1em; /* set left padding 1em*/
+  grid-area: main;
+}
+
+footer { /*style the footer of the grid */
+  
+  background-color: #555; /* set the background color*/
+  padding: 20px; /* set padding to 20px*/
+  position: sticky !important; /*set the position property of the footer sticky which makes it to stick to bottom when scrolling */
+  bottom: 0; /* position the footer at the bottom */
+  color: white; /* set the text color white */
+  grid-area: footer;
+}

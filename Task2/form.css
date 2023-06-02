@@ -1,0 +1,44 @@
+/* CSS styles for the form */
+
+.course-form {
+  max-width: 400px; /* Set the maximum width of the form */
+  margin: 0 auto; /* Center the form horizontally */
+}
+
+.form-group {
+  margin-bottom: 20px; /* Add bottom margin for spacing between form groups */
+}
+
+label {
+  display: block; /* Display labels as blocks */
+  font-weight: bold; /* Apply bold font weight to labels */
+  margin-bottom: 5px; /* Add bottom margin for spacing between labels and form fields */
+}
+
+input[type="text"],
+input[type="number"],
+textarea {
+  width: 100%; /* Set the width of text, number inputs and textareas to 100% */
+  padding: 10px; /* Add padding to text,number inputs and textareas */
+  border: 1px solid #ccc; /* Add a 1px solid border with a light gray color */
+  border-radius: 4px; /* Apply border radius to form fields */
+}
+
+input[type="submit"] {
+  background-color: #4CAF50; /* Set the background color of the submit button */
+  color: white; /* Set the text color of the submit button */
+  padding: 10px 20px; /* Add padding to the submit button */
+  border: none; /* Remove the border of the submit button */
+  border-radius: 4px; /* Apply border radius to the submit button */
+  cursor: pointer; /* Change the cursor to a pointer on hover */
+  font-size: 16px; /* Set the font size of the submit button */
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049; /* Change the background color of the submit button on hover */
+}
+
+h2 {
+  text-align: center; /* Center align the heading */
+  margin-bottom: 20px; /* Add bottom margin for spacing between headings and form groups */
+}

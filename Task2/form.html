@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="form.css">  <!-- Linking to an external CSS file called form.css -->
+    <title>Document</title>
+</head>
+<body>
+    <form action="http://localhost/Task2/form.php" method="post" class="course-form"> <!-- Form element with action form.php and method attribute set to post -->
+  <h2><b>Course Information</b></h2>
+  <div class="form-group">
+    <label for="courseName">Course Name:</label> <!-- Label for the courseName input field -->
+    <input type="text" id="courseName" name="courseName" required> <!-- Input field for  courseName  -->
+  </div>
+
+  <div class="form-group">
+    <label for="overview">Overview:</label> <!-- Label for the overview input field -->
+    <textarea id="overview" name="overview" required></textarea> <!-- Input field for  overview  -->
+  </div>
+
+  <div class="form-group">
+    <label for="highlights">Highlights:</label>  <!-- Label for the highlights input field -->
+    <textarea id="highlights" name="highlights" required></textarea> <!-- Input field for highlihts  -->
+  </div>
+
+  <div class="form-group">
+    <label for="courseDetails">Course Details:</label>   <!-- Label for the course details input field -->
+    <textarea id="courseDetails" name="courseDetails" required></textarea> <!-- Input field for  course details  -->
+  </div>
+
+  <div class="form-group">
+    <label for="module1">Module1:</label>  <!-- Label for the module1 input field -->
+    <textarea id="module1" name="module1" required></textarea> <!-- Input field for  module1  -->
+  </div>
+
+  <div class="form-group">
+    <label for="module1Credit">Credit of Module1:</label>  <!-- Label for the module1 credit input field -->
+    <input type="number" id="module1Credit" name="module1Credit" required> <!-- Input field for module1 credit  -->
+  </div>
+
+  <div class="form-group">
+    <label for="module2">module2:</label>  <!-- Label for the module2 input field -->
+    <textarea id="module2" name="module2" required></textarea> <!-- Input field for module2  -->
+  </div>
+
+  <div class="form-group">
+    <label for="module2Credit">Credit Of Module2:</label> <!-- Label for the module2 credit input field -->
+    <input type="number" id="module2Credit" name="module2Credit" required> <!-- Input field for module2 credit  -->
+  </div>
+
+  <div class="form-group">
+    <label for="module3">module3:</label>  <!-- Label for the module3 input field -->
+    <textarea id="module3" name="module3" required></textarea> <!-- Input field for module3  -->
+  </div>
+
+  <div class="form-group">
+    <label for="module3Credit">Credit Of Module3:</label>  <!-- Label for the module3 credit input field -->
+    <input type="number" id="module3Credit" name="module3Credit" required><!-- Input field for module3 credit  -->
+  </div>
+
+  <div class="form-group">
+    <label for="level">Level:</label>  <!-- Label for the level input field -->
+    <input type="text" id="level" name="level" required> <!-- Input field for level  -->
+  </div>
+
+  <div class="form-group">
+    <label for="entryRequirements">Entry Requirements:</label>  <!-- Label for the entry requirement input field -->
+    <textarea id="entryRequirements" name="entryRequirements" required></textarea>  <!-- Input field for entry requirement  -->
+  </div>
+  <h2><b>Fees Information</b></h2>
+  <div class="form-group">
+    <label for="feesGBP">Fees (GBP):</label>  <!-- Label for the fees in GBP input field -->
+    <input type="number" id="feesGBP" name="feesGBP" required>  <!-- Input field for fees in GBP  -->
+  </div>
+
+  <div class="form-group">
+    <label for="intFeesGBP">International Fees (GBP):</label> <!-- Label for the international fees in GBP input field -->
+    <input type="number" id="intfeesGBP" name="intfeesGBP" required> <!-- Input field for international fees in GBP  -->
+  </div>
+
+  <div class="form-group">
+    <label for="feesEUR">Fees (EUR):</label>  <!-- Label for the fees in EUR input field -->
+    <input type="number" id="feesEUR" name="feesEUR" required> <!-- Input field for fees in EUR  -->
+  </div>
+
+  <div class="form-group">
+    <label for="intFeesEUR">International Fees (EUR):</label>  <!-- Label for the international fees  in EUR input field -->
+    <input type="number" id="intfeesEUR" name="intfeesEUR" required> <!-- Input field for international fees in EUR  -->
+  </div>
+
+  <div class="form-group">
+    <label for="feesUSD">Fees (USD):</label>  <!-- Label for the fees in USD input field -->
+    <input type="number" id="feesUSD" name="feesUSD" required> <!-- Input field for fees in USD  -->
+  </div>
+
+  <div class="form-group">
+    <label for="intFeesUSD">International Fees (USD):</label>  <!-- Label for the# international fees in USD input field -->
+    <input type="number" id="intfeesUSD" name="intfeesUSD" required> <!-- Input field for international fees in USD  -->
+  </div>
+
+  <div class="form-group">
+    <input type="submit" value="Submit">  <!-- submit button  -->
+  </div>
+</form>
+
+</body>
+</html>
